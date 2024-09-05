@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    align-items: center;
+    font-family: 'Callie Chalk Font', sans-serif;
+    background-image: url(a-photo-of-a-stack-of-white-paper-the-paper-is-smo-S8cSRlpqSEeMJdwDCe2TTw-_nhHikGOSN63tuxoSn14Vg.jpeg);
+}
+
+button {
+    border-radius: 3px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
